@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utpal797&label=Profile%20views&color=0e75b6&style=flat" alt="utpal797" /> </p>
 
-- 🔭 I’m currently working on **Wings on Vision**
+- 🔭 I’m currently working at **Wings of Vision**
 
 - 🌱 I’m currently learning **android programming**
 
